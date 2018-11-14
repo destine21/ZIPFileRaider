@@ -2,6 +2,9 @@ ZIP File Raider - Burp Extension for ZIP File Payload Testing
 ===
 ZIP File Raider is a Burp Suite extension for attacking web application with ZIP file upload functionality. You can easily inject Burp Scanner/Repeater payloads in ZIP content of the HTTP requests which is not feasible by default. This extension helps to automate the extraction and compression steps.
 
+This software was created by Natsasit Jirathammanuwat during a cooperative education course at King Mongkut's University of Technology Thonburi (KMUTT).
+
+
 Installation
 ===
 1. Set up [Jython standalone Jar](http://search.maven.org/remotecontent?filepath=org/python/jython-standalone/2.7.0/jython-standalone-2.7.0.jar) in Extender > Options > Python Environment > "Select file...".
