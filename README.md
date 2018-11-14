@@ -15,12 +15,12 @@ How to use
 ### Send the HTTP request with a compressed file to the ZIP File Raider
 First, right click on the HTTP request with a compressed file in HTTP body and then select "Send request to ZIP File Raider extender Repeater" or Scanner.
 
-<img src="images/ss-context.png" width="66%">
+<img src="images/context.png" width="66%">
 
 ### Repeater
 This Repeater tab makes it possible to edit the content of the compressed file and then repeats it to the server promptly.
 
-<img src="images/ss-repeater.png" width="100%">
+<img src="images/repeater.png" width="100%">
 
 Descriptions for ZIP File Raider - Repeater tab:
 1. Files and folders pane - list of files and folders in the compressed file which is sent from the previous step (Send request to ...), select a file to edit its content.
@@ -30,7 +30,7 @@ Descriptions for ZIP File Raider - Repeater tab:
 ### Scanner
 This Scanner tab is used for setting the §insertion point§ in the content of the ZIP file before sending it to Burp Scanner.
 
-<img src="images/ss-scanner.png" width="100%">
+<img src="images/scanner.png" width="100%">
 
 Descriptions for ZIP File Raider - Scanner tab:
 1. Files and folders pane - list of files and folders in the compressed file which is sent from the previous step (Send request to ...), select a file that you want to set the §insertion points§.
