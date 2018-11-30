@@ -8,7 +8,7 @@ This software was created by Natsasit Jirathammanuwat during a cooperative educa
 Installation
 ===
 1. Set up [Jython standalone Jar](http://search.maven.org/remotecontent?filepath=org/python/jython-standalone/2.7.0/jython-standalone-2.7.0.jar) in Extender > Options > Python Environment > "Select file...".
-2. Add ZIP File Raider extension in Extender > Extensions > Add > <a href="CompressedPayloads.py">CompressedPayloads.py</a> (Extension type: Python)
+2. Add ZIP File Raider extension in Extender > Extensions > Add > <a href="ZIPFileRaider.py">ZIPFileRaider.py</a> (Extension type: Python)
 
 How to use
 ===
