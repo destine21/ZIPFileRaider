@@ -36,7 +36,3 @@ Descriptions for ZIP File Raider - Scanner tab:
 1. Files and folders pane - list of files and folders in the compressed file which is sent from the previous step (Send request to ...), select a file that you want to set the §insertion points§.
 2. Set insertion point pane - set insertion point in the content of the selected file by clicking on the "Set insertion point" button. (The insertion point will be enclosed with a pair of § symbol)
 3. Config/Status pane - config the scanner and show the scanner status (Not Running/Running).
-
-Author
-===
-Natsasit Jirathammanuwat
